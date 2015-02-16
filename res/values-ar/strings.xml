@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">محول تاريخ هجري و ميلادي</string>
+	<string name="day">اليوم</string>
+    <string name="month">الشهر</string>
+    <string name="year">السنة</string>
+    <string name="tohijri">إلى هجري</string>
+    <string name="togregorian">إلى ميلادي</string>
+    <string name="dayw">اليوم في الأسبوع</string>
+    
+    <string name="convert"> تحويل</string>
+    <string name="restore">إستعادة</string>
+    <string name="clear">مسح</string>
+    <string name="note">هناك إحتمالية صغيرة للخطأ بدقة يوم واحد فقط*</string>
+    
+    <string name="author">صمم بواسطة عبدالله السيد عبدالله</string>
+    <string name="version">الإصدارة رقم 1.2</string>
+    <string name="about">عن التطبيق</string>
+</resources>

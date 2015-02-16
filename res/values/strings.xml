@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hijri/Gregorian Convertor</string>
+    
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="tohijri">To Hijri</string>
+    <string name="togregorian">To Gregorian</string>
+    <string name="dayw">Day of Week</string>
+    
+    <string name="convert"> Convert</string>
+    <string name="restore"> Restore</string>
+    <string name="clear">Clear</string>
+    <string name="note">*There is a small probability of one day error</string>
+    
+    <string name="author">Designed By Abdalla El-sayed Abdalla</string>
+    <string name="version">Version 1.2</string>
+    <string name="about">About The Application</string>
+</resources>
